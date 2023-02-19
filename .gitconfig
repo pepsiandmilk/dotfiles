@@ -1,0 +1,7 @@
+[user]
+	email = 124849417+pepsiandmilk@users.noreply.github.com
+	name = pepsiandmilk
+[init]
+	defaultBranch = main
+[alias]
+	hist = log --all --graph --decorate --oneline
