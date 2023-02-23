@@ -13,3 +13,4 @@ export GTK_IM_MODULE="ibus"
 export VI_MODE_SET_CURSOR=true
 
 alias ls="ls -la"
+alias vim="nvim"
