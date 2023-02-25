@@ -15,4 +15,4 @@ export VI_MODE_SET_CURSOR=true
 alias ls="ls -la"
 alias vim="nvim"
 alias ue5="~/UnrealEngine/Engine/Binaries/Linux/UnrealEditor"
-alias godot="~/Godot_v4.0-rc3_linux.x86_64"
+alias godot="~/Godot_v4.0-rc5_linux.x86_64"
